@@ -1,6 +1,0 @@
- runtime: php72
-
- env_variables:
-   APP_LOG: errorlog
-   APP_KEY: YOUR_APP_KEY
-   APP_STORAGE: /tmp
