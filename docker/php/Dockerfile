@@ -15,6 +15,6 @@ ENV COMPOSER_HOME /composer
 ENV PATH $PATH:/composer/vendor/bin
 
 
-WORKDIR /takuya-app-ecsite
+WORKDIR /var/www
 
 RUN composer global require "laravel/installer"
